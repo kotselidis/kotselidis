@@ -44,17 +44,6 @@ A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and SPIR
 - [TornadoVM vs CUDA (Devoxx 2026)](https://github.com/beehive-lab/tornadovm-devoxx2026-cuda-demos): Java vs hand-written CUDA, explained with Nsight Compute
 - [Hands-on lab](https://github.com/beehive-lab/tornadovm-hands-on-lab) and [talks and slides](https://github.com/beehive-lab/tornadovm-presentations)
 
-### GitHub activity
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=github-dark-blue" />
-    <img width="100%" src="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=default" alt="Contribution streak" />
-  </picture>
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kotselidis&theme=github-compact&hide_border=true&area=true&bg_color=00000000" alt="Contribution graph" />
-
 ### Book
 
 [*Programming Heterogeneous Hardware via Managed Runtime Systems*](https://link.springer.com/book/10.1007/978-3-031-49559-5) (Springer)
