@@ -47,11 +47,17 @@ A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and SPIR
 ### GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kotselidis&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=kotselidis&hide_border=true" alt="Contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kotselidis&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotselidis&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=github-dark-blue" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=default" alt="Contribution streak" />
+  </picture>
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kotselidis&hide_border=true&area=true" alt="Contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kotselidis&theme=github-compact&hide_border=true&area=true&bg_color=00000000" alt="Contribution graph" />
 
 ### Book
 
