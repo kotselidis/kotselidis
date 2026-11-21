@@ -65,4 +65,4 @@ A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and SPIR
 - TornadoVM at Devoxx Belgium 2025: [video](https://www.youtube.com/watch?v=oRVtTEbtt_Y)
 - GPULlama3.java at Devoxx Belgium 2025: [video](https://youtu.be/PO6wOtzUb3w)
 
-More on [publications](https://kotselidis.net/publications/), [projects](https://kotselidis.net/projects/) and [prospective students](https://kotselidis.net/prospective-students/).
+More on [publications](https://kotselidis.net/publications/) and [projects](https://kotselidis.net/projects/).
