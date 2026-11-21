@@ -48,12 +48,8 @@ A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and SPIR
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kotselidis&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=github_dark" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kotselidis&show_icons=true&count_private=true&hide=stars&hide_border=true&theme=default" alt="GitHub stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=github-dark-blue" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=default" alt="Contribution streak" />
+    <img width="100%" src="https://streak-stats.demolab.com?user=kotselidis&hide_border=true&theme=default" alt="Contribution streak" />
   </picture>
 </p>
 
