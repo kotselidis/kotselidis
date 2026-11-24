@@ -18,7 +18,7 @@ My work spans hardware and software: hw/sw co-designed CPUs and VMs, heterogeneo
 ### TornadoVM
 
 **[TornadoVM](https://github.com/beehive-lab/TornadoVM)**: *Write Java. Run on GPUs. Fast.*
-A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and SPIR-V and runs it on GPUs and multi-core CPUs.
+A plug-in to OpenJDK and GraalVM that JIT-compiles Java to OpenCL, CUDA and HIP and runs it on GPUs and multi-core CPUs.
 
 [![Stars](https://img.shields.io/github/stars/beehive-lab/TornadoVM?style=flat-square)](https://github.com/beehive-lab/TornadoVM/stargazers)
 [![Release](https://img.shields.io/github/v/release/beehive-lab/TornadoVM?style=flat-square)](https://github.com/beehive-lab/TornadoVM/releases)
